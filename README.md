@@ -1,6 +1,6 @@
 <h1> Teclado Musical </h1>
 
-![Layout](./images/piano.png)
+![Layout](./images/teclado-musical.png)
 
 ## Descrição do Projeto
 
