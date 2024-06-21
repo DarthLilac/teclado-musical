@@ -3,6 +3,7 @@
   --lilas: #BE95C4;
   --lavanda: #9F86C0;
   --rosa: #e0b1cb;
+  --branco: #ffffff;
   --luz: rgb(229, 255, 0);
 }
 
@@ -19,7 +20,8 @@ body {
 h1 {
   color: var(--rosa);
   margin-bottom: 20px;
-  font-size: 2rem;
+  font-family: 'Tangerine', serif;
+  font-size: 4rem;
 }
 
 .teclado {
